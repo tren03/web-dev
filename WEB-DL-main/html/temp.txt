@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Terressa Printing</title>
+    <link rel="stylesheet" type="text/css" href="lamin.css">
+  </head>
+  <body>
+      <header>
+
+          <div class ="main">
+            <div class="logo">
+                <img src="logo.png">
+            </div>
+            <ul>
+                <li class="active">
+                <a href="home.html">Home</a></li>
+                <li><a href="services.html">Services </a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+            </div>
+      </header> 
+            
+
+                
+                 <!-- <div class="content"> -->
+
+                     <h1><br><br>Poster Printing </h1>
+                     <br>
+                     
+                    
+                        <p><br>> High Quality Poster<br><br>
+                        > A3 Sized poster <br><br>
+                        > High Quality Material <br><br><img src="file:///C:/Engg/3rd%20sem/WEB%20project/poster%20picture.jpg" width="200px" height="100px"alt="2">
+                    
+                    
+                    </p>
+                        <br>
+
+                        
+                
+                     
+                     <button class="cn cn1"><a href="dbox.html">BUY</a></button>
+                     
+                     
+                     <div class="form">
+                        <button class="btnn"><a href="home.html">HOME</a></button>
+                     </div>
+                     </div>
+                     </div>
+                     </div>
+                         </div>
+    
+</body>
+</html>

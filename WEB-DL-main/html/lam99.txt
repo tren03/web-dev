@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type ="text/css" href="Lamin2.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+
+
+
+    <title>Document</title>
+</head>
+
+<body>
+   <header>
+
+        <div class ="main">
+          <div class="logo">
+              <img src="logo.png">
+          </div>
+          <ul>
+              <li class="active">
+              <li><a href="home.html">Home </a></li>
+              <li><a href="services.html">Services </a></li>
+              <li><a href="#">Contact</a></li>
+              <li><a href="#">About</a></li>
+          </ul>
+          </div>
+        </header>
+        <div class = "title1">
+
+
+            <h1><center>LAMINATION</center></h1>
+            </div>
+       
+        
+        
+       
+       <div class = "title3">
+
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>  
+       <br>
+       <br>
+
+       
+
+      
+        <p>We offer 3 types of lamination:</p>
+      <ul>  </ul> 
+      <li>Matt lamination</li>
+      <li>Gloss lamination</li>
+      <li>Soft touch lamination</li>
+   <br>
+
+<p>Lamination is available for the following products:</p>
+<br>
+<ul></ul>
+<li>Loose sheets (matt 200 gsm or above only)</li>
+<li>Postcards (matt 200 gsm or above only)</li>
+<li>Posters (matt and gloss only)</li>
+
+
+<br>
+<div class ="imm">
+    
+    
+    <p><h1> Matte Lamination</h1></p><br>
+    <img src=matt.png width="400px" height="300px" class="m">
+    <p><centre>Matt lamination is ideal for document<br> covers and posters. It helps to enhance<br> colour and provide extra durability to<br> documents and posters.</centre></p><br>
+    <br> </div>
+    <div class="imm2">
+    <p><h1><center> Gloss Lamination</center></h1></p><br>
+    <img src=lam.jpg width="500px" height="400px">
+    <p>Gloss lamination helps bring the colour to life and <br> make it 'pop'. Gloss is ideal for photo heavy artwork <br> and book covers.</p><br>
+    <br></div>
+    <div class="imm3"> 
+    <p><h1><center>Soft touch lamination</center></h1></p><br>
+    <br>
+    <img src=soft_touch.jpg width="500px" height="400px">
+    <p>Soft touch lamination is a high-end finish,<br> providing a velvety feel to your loose sheets <br> or document covers. It's a great choice for <br> high end flyers, save the dates, wedding invites<br> and book covers.</p>
+    <br><br>
+      </div>
+
+<div class="t45">
+
+    <button><a href="dbox.html">BUY</a></button>
+
+</div>
+
+</div>
+<div class ="buton">
+
+    <div class="button1">
+        <a href="poster.html" >POSTER</a>
+    </div>
+    <div class="button2">
+        
+        <a href="lamination.html" >LAMINATION</a>
+    </div>
+    <div class="button3">
+        
+        <a href="ch.html" >STANDEE</a>
+    </div>
+</div>
+    <!-- <div class="button">
+    <a href="#" >FIND A STORE</a>
+    <a href="#" >CONTACT US</a>
+</div> -->
+<div class="pix">
+
+    <div style ="display: flex">
+        <img src="poster.jpg"
+        style="width:33.33%;padding: 30px;">
+        <img src="poster.jpg"
+        style="width:33.33%;padding: 30px;">
+        <img src="poster.jpg"
+        style="width:33.33%;padding: 30px;">
+    </div>
+</div>
+</body>
+</html>
